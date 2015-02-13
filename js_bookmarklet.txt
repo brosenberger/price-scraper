@@ -1,0 +1,1 @@
+javascript:(function(){$.ajax({url:"http://localhost:8080/scrape",type:"GET",data:{url:window.location.toString()}});})();
